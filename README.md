@@ -1,10 +1,8 @@
 # Grade-Calculator
-> Mars Keklak, 2023-12-26 to present
->
-> For international public consumption; published under CC0-1.0
->
+> Mars Keklak, 2023-12-26 to present\
+> For international public consumption; published under CC0-1.0\
 > Dedicated to [New Jersey Institute of Technology (NJIT)](https://www.njit.edu/) students
-
+> 
 Grade Calculator (name to be changed depending upon whether or not people think it's too generic or it's a copyrighted term and I just haven't checked...because I didn't bother to) is intended to help calculate the total point value, percentage grade value, GPA, and other forms of any student's grade (per subject or term). Using this program may require a user to open a C++ interpreter depending upon how much effort I have currently put into exporting this into an executable, but I hope to find a way to make this into an installable application and/or part of a dynamic, public website if I cease being lazy and just get out of bed earlier than noon every day. Anyway, enjoy the incomplete grade calculator!
 
 ---

@@ -1,7 +1,7 @@
 # Grade-Calculator
 > Mars Keklak, 2023-12-26 to present
 >
-> For international public consumption; published under CC-BY-SA-1.0
+> For international public consumption; published under CC0-1.0
 >
 > Dedicated to [New Jersey Institute of Technology (NJIT)](https://www.njit.edu/) students
 

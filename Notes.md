@@ -1,6 +1,6 @@
 # Notes
 This file is not intended for end users to see, but go ahead and take a look if you want to. Most of this content pertains to the scope of the project iself rather than anything that would make it to the final product.
-## End User Settings
+## Grading Conditions
 ### Types of Grades
 #### Non-GPA Style
 Non-GPA style grades tend to be defined by the department that runs the student's provided course or the teachers themselves.
@@ -27,6 +27,13 @@ Teachers and departments may offer extra credit for whole classes. Sometimes, te
 - **Random dares:** teachers may award points or pass every student one or a few assignments if one or more students fulfill a dare.
 - **Sexual favors:** while highly unethical and often worthy of getting a teacher fired and any students expelled, a student may offer their body or convince close friends/family to offer their own towards a teacher or department manager to help them get a better grade in their course.
 - OTHERS?
+### Special Grade Conditions
+- **Excused:** depending upon what exactly it does to a student's grade, it "shouldn't display a zero, therefore it shouldn't affect your grade." Excusing an assignment may cause the average for the grade to simply require less assignments to determine the average (how many assignments were excused were how many assignments were not included in the average).
+- **Late:** depending upon the assignment type, completing an assignment late may yield partial to no credit. Late assignments done near the end of the term usually cannot yield any credit. The proportion of credit a student may receive for completing an assignment late within the interval in which they may receive credit tends to depreciate each hour or day.
+- **Incomplete:** this type usually applies to whole courses, and it's only given out under very specific instances when a student would normally finish their course but cannot due to getting extremely sick in the middle of the term, suffering a severe mental health condition that starts while the term is in progress, etc.
+- OTHERS?
+## End User Settings
+***TO BE ADDED.***
 ## Branding
 ### Name Change?
 - Something that isn't too forgettable
